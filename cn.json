@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "analytics.strava.com",
+        "blzddist1-a.akamaihd.net"
+      ],
+      "domain_suffix": [
+        "hstong.com",
+        "test.com"
+      ]
+    }
+  ]
+}
