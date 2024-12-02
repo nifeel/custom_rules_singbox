@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "apiauth.quickconnect.to",
+        "quickconnect.to"
+      ],
+      "domain_suffix": [
+        "quickconnect.to",
+        "apiauth.quickconnect.to"
+      ]
+    }
+  ]
+}
