@@ -3,8 +3,7 @@
   "rules": [
     {
       "domain": [
-        "analytics.strava.com",
-        "blzddist1-a.akamaihd.net"
+        "api.ibkr.com"
       ],
       "domain_suffix": [
         "hstong.com",
