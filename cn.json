@@ -3,7 +3,8 @@
   "rules": [
     {
       "domain": [
-        "api.ibkr.com"
+        "api.ibkr.com",
+        "api.steampowered.com"
       ],
       "domain_suffix": [
         "hstong.com",
@@ -15,7 +16,8 @@
         "wanmei.com",
         "steamcontent.com",
         "steampowered.com",
-        "steamcommunity.com"
+        "steamcommunity.com",
+        "api.steampowered.com"
       ]
     }
   ]
