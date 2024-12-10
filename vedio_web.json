@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "wwww.netflix.com"
+      ],
+      "domain_suffix": [
+        "netflix.com"
+      ]
+    }
+  ]
+}
