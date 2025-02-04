@@ -7,6 +7,8 @@
         "api.steampowered.com"
       ],
       "domain_suffix": [
+        "*.welife001.com",
+        "welife001.com",
         "*.pzds.com",
         "pzds.com",
         "5173cdn.com",
