@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "www.interactivebrokers.com"
+      ],
+      "domain_suffix": [
+        "www.interactivebrokers.com",
+        "*.interactivebrokers.com"
+
+      ]
+    }
+  ]
+}
