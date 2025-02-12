@@ -4,9 +4,12 @@
     {
       "domain": [
         "api.ibkr.com",
-        "api.steampowered.com"
+        "api.steampowered.com",
+        "www.interactivebrokers.com"
       ],
       "domain_suffix": [
+        "www.interactivebrokers.com",
+        "*.interactivebrokers.com",
         "*.welife001.com",
         "welife001.com",
         "*.pzds.com",
