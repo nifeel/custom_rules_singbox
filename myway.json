@@ -4,7 +4,8 @@
     {
       "domain": [
         "www.interactivebrokers.com",
-        "*.interactivebrokers.com"
+        "*.interactivebrokers.com",
+        "download2.interactivebrokers.com"
       ],
       "domain_suffix": [
         "www.interactivebrokers.com",
