@@ -3,7 +3,8 @@
   "rules": [
     {
       "domain": [
-        "www.interactivebrokers.com"
+        "www.interactivebrokers.com",
+        "*.interactivebrokers.com"
       ],
       "domain_suffix": [
         "www.interactivebrokers.com",
