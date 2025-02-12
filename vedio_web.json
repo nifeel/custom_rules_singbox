@@ -6,6 +6,8 @@
         "wwww.netflix.com"
       ],
       "domain_suffix": [
+        "www.interactivebrokers.com",
+        "*.interactivebrokers.com",
         "netflix.com",
         "fast.com",
         "netflix.ca",
