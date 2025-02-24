@@ -5,11 +5,15 @@
       "domain": [
         "www.interactivebrokers.com",
         "*.interactivebrokers.com",
-        "download2.interactivebrokers.com"
+        "download2.interactivebrokers.com",
+        "www.mexc.com",
+        "*.mexc.com"
       ],
       "domain_suffix": [
         "www.interactivebrokers.com",
-        "*.interactivebrokers.com"
+        "*.interactivebrokers.com",
+        "www.mexc.com",
+        "*.mexc.com"
 
       ]
     }
