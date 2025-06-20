@@ -7,13 +7,17 @@
         "*.interactivebrokers.com",
         "download2.interactivebrokers.com",
         "www.mexc.com",
-        "*.mexc.com"
+        "*.mexc.com",
+        "steampowered.com",
+        "*.steampowered.com"
       ],
       "domain_suffix": [
         "www.interactivebrokers.com",
         "*.interactivebrokers.com",
         "www.mexc.com",
-        "*.mexc.com"
+        "*.mexc.com",
+        "steampowered.com",
+        "*.steampowered.com"
 
       ]
     }
