@@ -3,7 +3,9 @@
   "rules": [
     {
       "domain": [
-        "wwww.netflix.com"
+        "wwww.netflix.com",
+        "www.binance.com",
+        "*.binance.com"
       ],
       "domain_suffix": [
         "netflix.com",
@@ -17,7 +19,9 @@
         "nflximg.net",
         "nflxsearch.net",
         "nflxso.net",
-        "nflxvideo.net"
+        "nflxvideo.net",
+        "www.binance.com",
+        "*.binance.com"
       ]
     }
   ]
